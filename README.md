@@ -113,7 +113,3 @@ If a user hits an unhandled or incorrect URL (like /posts/id/99 or a wrong route
   "error": "404 Not Found",
   "message": "The requested page or route '/posts/invalid-route' does not exist on this server."
 }
-
-------------------------------
-Let me know if your project is running completely smoothly now, or if you need help testing other endpoints or adding new validation rules!
-
