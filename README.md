@@ -1,6 +1,4 @@
 # Blogpost-API-with-Get-and-Post-endpoints-Assignment-
-Here is the updated, simple README.md file for your assignment project. It includes the simple validation logic we just added to block pure numbers while allowing strings like "Caffe - 23".
-You can copy this text directly into your README.md file:
 ------------------------------
 ## Blog Post API Management System
 A simple Node.js and Express application designed to handle decoupled API workflows. Server 1 handles retrieving blog posts via GET routes under try...catch safety blocks. Server 2 manages new incoming blog data via POST requests, using Joi schema validation alongside native JavaScript checks to keep your data accurate.
